@@ -1,7 +1,6 @@
 {
   "name": "工作居住证系统兼容助手",
   "description": "使「北京市工作居住证管理系统」兼容Chrome浏览器。",
-  "default_locale": "zh",
   "version": "0.0.0.1",
   "homepage_url": "http://wangwl.net",
   "author": "wangwl",
