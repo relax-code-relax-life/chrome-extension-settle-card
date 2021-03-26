@@ -1,9 +1,16 @@
 {
-  "name": "工作居住证网站兼容助手",
-  "description": "使工作居住证网站兼容Chrome浏览器。",
-  "version": "1.0",
+  "name": "工作居住证系统兼容助手",
+  "description": "使「北京市工作居住证管理系统」兼容Chrome浏览器。",
+  "default_locale": "zh",
+  "version": "0.0.0.1",
   "homepage_url": "http://wangwl.net",
   "author": "wangwl",
+  "icons": {
+    "32": "/images/icon32.png",
+    "48": "/images/icon48.png",
+    "128": "/images/icon128.png"
+  },
+  "default_title": "工作居住证系统兼容助手",
   "manifest_version": 3,
   "permissions": [
     "declarativeNetRequest"
