@@ -2,7 +2,7 @@
   "name": "工作居住证系统兼容助手",
   "description": "使「北京市工作居住证管理系统」兼容Chrome浏览器。",
   "version": "0.0.0.1",
-  "homepage_url": "http://wangwl.net",
+  "homepage_url": "http://wangwl.net/r/chrome_extension_settle_card",
   "author": "wangwl",
   "icons": {
     "32": "/images/icon32.png",
