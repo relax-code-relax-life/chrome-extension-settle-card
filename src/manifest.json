@@ -1,0 +1,41 @@
+{
+  "name": "工作居住证网站兼容助手",
+  "description": "使工作居住证网站兼容Chrome浏览器。",
+  "version": "1.0",
+  "homepage_url": "http://wangwl.net",
+  "author": "wangwl",
+  "manifest_version": 3,
+  "permissions": [
+    "declarativeNetRequest"
+  ],
+  "host_permissions": [
+    "*://219.232.200.39/uamsso/*"
+  ],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "rules1",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://219.232.200.39/uamsso/*"
+      ],
+      "js": [
+        "loginStyle.js"
+      ]
+    },
+    {
+      "matches": [
+        "*://219.232.200.42/yjrc/person/*"
+      ],
+      "css": [
+        "applyListAction.css"
+      ]
+    }
+  ]
+}

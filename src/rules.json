@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "modifyHeaders",
+      "responseHeaders": [
+        {
+          "header": "Content-Type",
+          "operation": "set",
+          "value": "text/html; charset=GBK"
+        }
+      ]
+    },
+    "condition": {
+      "urlFilter": "||219.232.200.39/uamsso/ssoServlet?LinkType*LinkID*",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  }
+]
