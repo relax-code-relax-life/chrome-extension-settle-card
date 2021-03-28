@@ -6,9 +6,11 @@
 
 ## 通过Chrome应用商店安装
 
-链接：https://chrome.google.com/webstore/category/extensions?hl=zh-CN
+~~链接：~~
 
-打开上面这个链接，然后直接安装即可。
+~~打开上面这个链接，然后直接安装即可。~~
+
+目前还在审核中。
 
 ## 手动安装
 
@@ -18,7 +20,7 @@
 
 手动安装的缺点是：无法及时获得更新，以及稍微麻烦一丢丢，
 
-### 下载扩展包:
+### 下载扩展包
 
 下载链接:
 1. 从github下载: [https://github.com/relax-code-relax-life/chrome-extension-settle-card/raw/main/output/settleCard.zip](https://github.com/relax-code-relax-life/chrome-extension-settle-card/raw/main/output/settleCard.zip)
@@ -43,12 +45,13 @@
 点击「加载已解压的扩展程序」，然后选择刚才解压的文件夹。
    
 如下图所示，如果看到有「工作居住证系统兼容助手」，就安装成功了，打开 [北京市工作居住证管理系统](http://219.232.200.39/uamsso) 试下吧。
+
 ![打开开发者模式](./assets/manual3.png)
 
 # 问题反馈
 
 - github: [https://github.com/relax-code-relax-life/chrome-extension-settle-card/issues](https://github.com/relax-code-relax-life/chrome-extension-settle-card/issues)
-- 个人站: [http://wangwl.net/static/pages/xxx](http://wangwl.net/static/pages/xxx)
+- 个人站: [http://wangwl.net/static/pages/chrome_settlecard.html](http://wangwl.net/static/pages/chrome_settlecard.html)
 
 在github反馈需要登录github账号，如果未注册github可以在我的个人站匿名评论。看到后会及时回复。
 
