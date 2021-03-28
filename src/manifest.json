@@ -39,7 +39,6 @@
       "matches": [
         "*://219.232.200.42/yjrc/person/*"
       ],
-      "run_at": "document_start",
       "css": [
         "person.css"
       ],
