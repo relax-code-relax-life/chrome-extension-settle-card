@@ -6,11 +6,13 @@
 
 ## 通过Chrome应用商店安装
 
-~~链接：~~
+链接：[https://chrome.google.com/webstore/detail/工作居住证系统兼容助手/cbaifoibmhipehiccleflhbejjhhfgdd](https://chrome.google.com/webstore/detail/%E5%B7%A5%E4%BD%9C%E5%B1%85%E4%BD%8F%E8%AF%81%E7%B3%BB%E7%BB%9F%E5%85%BC%E5%AE%B9%E5%8A%A9%E6%89%8B/cbaifoibmhipehiccleflhbejjhhfgdd)
 
-~~打开上面这个链接，然后直接安装即可。~~
+打开上面这个链接，点击「添加至Chrome」即可。
 
-目前还在审核中。
+安装完成后打开 [北京市工作居住证管理系统](http://219.232.200.39/uamsso) 试下吧。
+
+![Chrome应用商店](./assets/chrome_web_store.png)
 
 ## 手动安装
 
