@@ -20,12 +20,12 @@
 
 如果您的网络环境无法访问谷歌，则可以手动进行安装。
 
-手动安装的缺点是：无法及时获得更新，以及稍微麻烦一丢丢，
+手动安装的缺点是：无法及时获得更新，以及稍微麻烦一丢丢。
 
 ### 下载扩展包
 
 下载链接:
-1. 从github下载: [https://github.com/relax-code-relax-life/chrome-extension-settle-card/raw/main/output/settleCard.zip](https://github.com/relax-code-relax-life/chrome-extension-settle-card/raw/main/output/settleCard.zip)
+1. 从GitHub下载: [https://github.com/relax-code-relax-life/chrome-extension-settle-card/raw/main/output/settleCard.zip](https://github.com/relax-code-relax-life/chrome-extension-settle-card/raw/main/output/settleCard.zip)
 2. 从我的个人站下载: [http://wangwl.net/r/chrome_extension_settle_card_zip](http://wangwl.net/r/chrome_extension_settle_card_zip)
 
 随便选一个链接下载即可。第2个链接的zip包会和Chrome应用商店上传的保持一致。第1个链接的zip包可以理解为beta版。
@@ -52,8 +52,9 @@
 
 # 问题反馈
 
-- github: [https://github.com/relax-code-relax-life/chrome-extension-settle-card/issues](https://github.com/relax-code-relax-life/chrome-extension-settle-card/issues)
+- GitHub: [https://github.com/relax-code-relax-life/chrome-extension-settle-card/issues](https://github.com/relax-code-relax-life/chrome-extension-settle-card/issues)
+- 知乎: [https://zhuanlan.zhihu.com/p/360693196](https://zhuanlan.zhihu.com/p/360693196)
 - 个人站: [http://wangwl.net/static/pages/chrome_settlecard.html](http://wangwl.net/static/pages/chrome_settlecard.html)
 
-在github反馈需要登录github账号，如果未注册github可以在我的个人站匿名评论。看到后会及时回复。
+在GitHub和知乎中发表评论需要登录账号，如果未注册GitHub和知乎，可以在我的个人站匿名评论。看到后会及时回复。
 
