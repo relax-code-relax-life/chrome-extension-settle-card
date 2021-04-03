@@ -9,10 +9,14 @@
     "48": "/images/icon48.png",
     "128": "/images/icon128.png"
   },
-  "default_title": "工作居住证系统兼容助手",
+  "background": {
+    "service_worker": "background.js"
+  },
   "manifest_version": 3,
   "permissions": [
-    "declarativeNetRequest"
+    "declarativeNetRequest",
+    "contextMenus",
+    "tabs"
   ],
   "host_permissions": [
     "*://219.232.200.39/uamsso/*"
